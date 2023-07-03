@@ -9,6 +9,7 @@ Learning git
 > - pushing
 
 ## If first time you are making changes in your repository
+---
 step-1 : in GitHub, Create repository without README.md. So that you can also see codes and steps after creating repository in GitHub
 step-2 : in VS Code's terminal, go to the folder which you want to upload in GitHub
 step-3 : type ```git init``` and press enter
@@ -20,6 +21,7 @@ step-8 : type ```git status``` to check your status of your repository
 step-9 : reload your GitHub site to see changes you made using git
 
 ## If this is not your first time making changes in your repository
+---
 step-1 : type ```git add .``` to add all files of your folder to the GitHub OR type ```git add file_name``` to add specific files in your GitHub
 step-2 : type ```git commit -m "commit_name"``` to commit changes with name as commit_name in master branch
 step-3 : type ```git push``` to push your commit in GitHub

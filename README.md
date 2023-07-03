@@ -3,10 +3,10 @@ Learning git
 
 ## TIP : You can type ```git status``` anytime to check your status of your files in repository
 
-## There are 3 stages in Git-
-- adding
-- commiting
-- pushing
+> There are 3 stages in Git-
+> - adding
+> - commiting
+> - pushing
 
 ## If first time you are making changes in your repository
 step-1 : in GitHub, Create repository without README.md. So that you can also see codes and steps after creating repository in GitHub

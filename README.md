@@ -11,7 +11,7 @@ Learning git
 <br>
 <br>
 
-## If first time you are making changes in your repository
+## If this is your first time making changes in your repository
 ---
 step-1 : in GitHub, Create repository without README.md. So that you can also see codes and steps after creating repository in GitHub<br>
 step-2 : in VS Code's terminal, go to the folder which you want to upload in GitHub<br>
